@@ -8,6 +8,7 @@ The increasing use of social media among students has led to concerns about addi
 
 ## Dataset Information
 The dataset contains information about 705 students and 13 attributes related to their social media usage behavior, academic impact, mental well-being, and lifestyle habits. It includes demographic details, daily social media usage patterns, sleep duration, mental health scores, relationship status, and the effects of social media on academic performance. The dataset was used to analyze behavioral trends, perform feature engineering, and build a machine learning model for predicting students' social media addiction risk levels.
+
 Dataset Size: 705 records × 13 columns
 
 ## 🛠️Technologies Used
@@ -38,51 +39,6 @@ Dataset Size: 705 records × 13 columns
 - Confidence score
 - Personalized recommendations
 - Interactive Streamlit dashboard
-
-## Project Structure
-Student-Social-Media-Addiction-Prediction/
-│
-├── app/
-│   └── streamlit_app.py
-|
-├── assets/
-│   ├── home_page.png
-│   ├── prediction_result.png
-│   ├── correlation_heatmap.png
-│   └── feature_importance.png
-│
-├── data/
-│   ├── processed/
-│   │   └── cleaned_data.csv
-|   |   └──featured_data.csv
-│   │
-│   └── raw/
-│       └── Students Social Media Addiction.csv
-│
-├── models/
-│   ├── label_encoders.pkl
-│   ├── social_media_addiction_app_model.pkl
-│   └── social_media_addiction_model.pkl
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_model_building.ipynb
-│   └── 05_model_evaluation.ipynb
-│
-├── reports/
-│   └── project_summary.pdf
-|
-|── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── predict.py
-│   └── train_model.py
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 ## 📦 Installation (Local Setup)
 1. Clone the repository:
