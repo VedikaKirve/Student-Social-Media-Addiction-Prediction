@@ -65,3 +65,6 @@ Student-Social-Media-Addiction-Prediction/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
+## 🌍 Live Demo
+https://student-social-media-addiction-prediction-tqg5zkfddpqzsnvpq8ab.streamlit.app/
