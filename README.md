@@ -42,10 +42,10 @@ Dataset Size: 705 records × 13 columns
 
 ## Screenshots
 ## 1. Dashboard Home Page
-<img width="939" height="797" alt="image" src="https://github.com/user-attachments/assets/951316c1-8b31-4157-90ab-6d2ece4030b8" />
+<img width="739" height="597" alt="image" src="https://github.com/user-attachments/assets/951316c1-8b31-4157-90ab-6d2ece4030b8" />
 
 ## 2. Prediction Result
-<img width="927" height="702" alt="image" src="https://github.com/user-attachments/assets/4a57461e-faa4-4d25-a97d-0d85e88ed482" />
+<img width="727" height="502" alt="image" src="https://github.com/user-attachments/assets/4a57461e-faa4-4d25-a97d-0d85e88ed482" />
 
 ## 📦 Installation (Local Setup)
 1. Clone the repository:
